@@ -1,3 +1,4 @@
+#This needs comments
 fate=["magic", "left", "right", "cycle"]
 
 nsm=input().split()
